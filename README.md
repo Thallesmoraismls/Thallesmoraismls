@@ -23,15 +23,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thallesmoraismls&show_icons=true&theme=github_dark&hide_title=true&count_private=true" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thallesmoraismls&layout=compact&langs_count=8&theme=github_dark" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ## ⚙️ Tecnologias que utilizo
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
