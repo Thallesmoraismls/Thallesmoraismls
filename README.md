@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente trabalho na [**Nups Tecnologia**](https://nups.com.br/)  
 - 🎓 Estudando **Desenvolvimento Full-Stack** na faculdade  
-- 🚀 Praticando Front-end Developer da DIO.me  
+- 🚀 Praticando JavaScript Developer da DIO.me  
 - 🌐 Estudando **Inglês** para alcançar oportunidades no mercado internacional  
 - 💡 Curioso, apaixonado por resolver problemas e criar soluções reais  
 - 🏎️ Fã de BMW e boas práticas de desenvolvimento  
