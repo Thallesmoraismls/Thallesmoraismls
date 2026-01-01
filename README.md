@@ -6,8 +6,8 @@
 ## 👨‍💼 Sobre mim
 
 - 🔭 Atualmente trabalho na [**Nups Tecnologia**](https://nups.com.br/)  
-- 🎓 Estudando **Desenvolvimento Full-Stack** na faculdade  
-- 🚀 Praticando JavaScript Developer da DIO.me  
+- 🎓 Formado em **Tecnologia da Informação** no  [**Aphonsiano**](https://www.aphonsiano.edu.br/)  
+- 🚀 Praticando Python Developer da DIO.me  
 - 🌐 Estudando **Inglês** para alcançar oportunidades no mercado internacional  
 - 💡 Curioso, apaixonado por resolver problemas e criar soluções reais  
 - 🏎️ Fã de BMW e boas práticas de desenvolvimento  
@@ -17,7 +17,8 @@
 
 ## 📚 O que estou estudando
 
-- 🧠 Tecnologias: JavaScript, Node.js, React, HTML, CSS, Python, C#, PHP, Laravel, Kotlin, SQL, PostgreSQL, Docker, Django e Android Studio  
+- 📖 Estudando: Python-Framework-Projetos  
+- 🧠 Tecnologias Usadas: JavaScript, Node.js, React, HTML, CSS, Python, C#, PHP, Laravel, Kotlin, SQL, PostgreSQL, Docker, Django e Android Studio  
 - 🛠️ Praticando com projetos pessoais/faculdade  
 - 📘 Estudando arquitetura de software, boas práticas, versionamento e testes  
 
