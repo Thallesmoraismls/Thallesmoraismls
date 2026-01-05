@@ -18,7 +18,7 @@
 ## 📚 O que estou estudando
 
 - 📖 Estudando: Python-Framework-Projetos  
-- 🧠 Tecnologias Usadas: JavaScript, Node.js, React, HTML, CSS, Python, C#, PHP, Laravel, Kotlin, SQL, PostgreSQL, Docker, Django e Android Studio  
+- 🧠 Tecnologias Usadas: JavaScript, Node.js, React, HTML, CSS, Python, PHP, SQL, PostgreSQL, Django.
 - 🛠️ Praticando com projetos pessoais/faculdade  
 - 📘 Estudando arquitetura de software, boas práticas, versionamento e testes  
 
