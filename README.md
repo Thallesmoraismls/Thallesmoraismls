@@ -15,7 +15,7 @@ To become a **Junior SOC Analyst** by the end of 2026, while building a solid pr
 
 ## 📚 Education
 
-- **Cybersecurity Specialist** — DIO.me (in progress)
+- **Cybersecurity Specialist** — DIO.me 
 - **Pós-Graduação MIT em Cyber Security** — SENAI Goiás (in progress)
 - **Technician in Information Technology** — Instituto Aphonsiano
 
