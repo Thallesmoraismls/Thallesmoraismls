@@ -51,7 +51,7 @@ Feel free to follow my evolution!
 ## 📬 Contact
 
 - 💼 GitHub: [@Thallesmoraismls](https://github.com/Thallesmoraismls)
-- 🔗 LinkedIn: [Thalles Morais Lima](https://www.linkedin.com/in/thalles-morais-lima-5b04b32b3)
+- 🔗 LinkedIn: [Thalles Morais Lima](www.linkedin.com/in/thalles-lima-5b04b32b3)
 - 📧 Email: thalleslimabr@outlook.com
 
 ---
